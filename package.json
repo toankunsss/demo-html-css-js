@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web app which demonstrates HTML5, CSS and JavaScript",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
   "repository": {
