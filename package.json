@@ -2,11 +2,9 @@
   "name": "demo-html-css-js",
   "version": "1.0.0",
   "description": "Web app which demonstrates HTML5, CSS and JavaScript",
-   "scripts": {
-            "start": "node main.js"
-          },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js",
   },
   "repository": {
     "type": "git",
